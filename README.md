@@ -1,10 +1,13 @@
 # Customer-Segmentation-Using-K-Means-Clustering
 
 The python project analyzes mall customer data to identify distinct customer segments using K-Means clustering. It includes data preprocessing, exploratory data analysis, and model evaluation using silhouette scores, with visual insights to guide marketing strategies.
-------
+
+
 # Project Overview
 
-This project focuses on segmenting mall customers into distinct groups using unsupervised learning, specifically K-Means clustering. The goal is to help businesses better understand their customers’ behavior and tailor marketing strategies accordingly.
+This project focuses on segmenting mall customers into distinct groups using unsupervised learning, specifically K-Means clustering. The 
+goal is to help businesses better understand their customers’ behavior and tailor marketing strategies accordingly.
+
 -----
 
 # Dataset
